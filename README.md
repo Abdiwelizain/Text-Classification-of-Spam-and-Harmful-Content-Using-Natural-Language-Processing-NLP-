@@ -1,0 +1,2 @@
+# Text-Classification-of-Spam-and-Harmful-Content-Using-Natural-Language-Processing-NLP-
+Text Classification of Spam and Harmful Content Using Natural Language Processing is an AI project that detects and classifies spam and harmful text messages using NLP and machine learning. It applies text preprocessing, TF-IDF feature extraction, and a trained classifier, with a Python GUI and database support for real time prediction securely.!
